@@ -117,7 +117,7 @@ let counter = 0;
 function preload(){
   playerCorreDx = loadImage('./img/gattoDx.gif');
   playerCorreSx = loadImage('./img/gattoSx.gif');
-  sfondo = loadImage('./img/sfondo.png');
+  sfondo = loadImage('./img/sfondo.jpg');
   fontGioco = loadFont('./font/PixeloidSans-mLxMm.ttf');
   ostHome = loadSound('./sound/home.m4a');
   ostBattle = loadSound('./sound/battle.mp3');
