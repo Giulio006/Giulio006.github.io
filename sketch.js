@@ -152,7 +152,7 @@ function preload(){
   homeCreditsPremuto = loadImage('./img/homeCreditsSelezionato.png');
   homeSet = homePlayPremuto;
   tutorialImg = loadImage('./img/tutorial.png');
-  creditsImg = loadImage('./img/credits.png');
+  creditsImg = loadImage('./img/creditsErica.png');
   selectLevelImg = loadImage('./img/selectLevel.png');
   gameOverImg = loadImage('./img/gameOver.png');
   youWinImg = loadImage('./img/youWin.png');
